@@ -2,9 +2,12 @@
 This is the Bad Piggy Bank Project 
 
 # Description   
-    This actualy a learning project for Class at MITxPro.  It is one of the assignments and almost contained everything I have learned so far in this class. There are many areas that need imporving, in design, structure, orginzation, code and deployment.  
+    This actualy a learning project for Class at MITxPro.  
+    It is one of the assignments and almost contained everything I have learned so far in this class. 
+    There are many areas that need imporving, in design, structure, orginzation, code and deployment.  
 
-    It is a basicaly a mock bank with no security at the moment.  It will have most of the things such as Deppsit, Withdrawl, Login page, and balance page.   
+    It is a basicaly a mock bank with no security at the moment.  
+    It will have most of the things such as Deppsit, Withdrawl, Login page, and balance page.   
 
 
 <img src="./bb.png">
